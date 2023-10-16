@@ -4,12 +4,14 @@ p {
 .card {
     display: inline-flex;
     flex-direction: column;
-    margin-left: 70px;
-    margin-bottom: 20px;
-    margin-top: 50px;
-    padding: 0;
+    margin: 60px;
+    padding: 10px;
 }
 img {
     width: 700px;
     height: 250px;
+}
+.products-content {
+    background: white;
+    margin: 130px;
 }
