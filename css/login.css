@@ -2,15 +2,12 @@ h1 {
     text-align: center;
     margin: 2%;
 }
-li {
-    display: inline;
-    text-align: center;
-    padding: 10px;
-}
 a:hover {
     text-decoration: none;
 }
 a {
     margin: 20px;
-    
+}
+.page-content {
+    padding: 20px;
 }
