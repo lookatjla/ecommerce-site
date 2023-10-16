@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    margin: 2%;
+}
+li {
+    display: inline;
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+}
+a:link {
+    text-decoration: none;
+}
