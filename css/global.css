@@ -11,3 +11,12 @@ li {
 a:link {
     text-decoration: none;
 }
+body {
+    background-image: url(/images/pasta-2.gif);
+    background-repeat: repeat;
+}
+.page-content {
+    margin: 100px;
+    background: white;
+    border: burlywood solid;
+}
